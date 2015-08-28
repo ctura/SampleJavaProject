@@ -17,6 +17,7 @@ target
 build
 dist
 out
+res
 
 gradle*
 *.gradle
